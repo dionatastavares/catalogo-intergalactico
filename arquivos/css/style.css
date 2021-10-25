@@ -90,3 +90,48 @@ img{
 nav{
     text-align: center;
 }
+
+#aliendiv{
+    float: left;
+    max-width: 575px;
+    min-width: 575px;
+}
+
+#alieninicial{
+   float: right;
+   max-width: 575px;
+   min-width: 575px;
+   padding-bottom: 50px;
+   
+}
+
+#alienimg{
+    margin-top: 30px;
+    margin-left: 150px;
+}
+
+#alienh2{
+    margin-right: 150px;
+    margin-top: 50px;
+}
+
+#alienp{
+    margin-right: 150px;
+    text-align: justify;
+}
+
+#botaoinicial{
+    margin-right: 80px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    text-decoration: none;
+}
+
+#divbotaoinicial{
+    padding-bottom: 160px;
+}
